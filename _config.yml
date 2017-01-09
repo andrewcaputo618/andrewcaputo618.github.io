@@ -1,0 +1,21 @@
+# Site settings
+title: A hot cup of Java, with a slice of Ruby-barb pie. 
+header-img: img/home-bg.png
+email: andrewcaputo618@gmail.com
+copyright_name: andrewcaputo618
+description: > # this means to ignore newlines until "baseurl:"
+  My journey through software creation. 
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  andrewcaputo618
+learn_profile: andrewcaputo618
+email_username: andrewcaputo618@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
