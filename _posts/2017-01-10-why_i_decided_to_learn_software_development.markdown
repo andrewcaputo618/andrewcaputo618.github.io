@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Why I decided to learn software development.  "
+date:   2017-01-10 03:33:33 +0000
+---
+
+This is a question I ask myself every morning I open Learn.co, and one I find asking myself almost every night before bed.  This is not because of a doubt or insecurity I have in accomplishing this mighty task, but because of the sense of accomplishment I feel every time I complete a lesson.  I am beginning to dream in code.  I have always been interested in technology, and how it has and will make our world more productive.  I was first introduced to technology whole playing my Atari 2600.  I just dated myself there, but what opened my eyes, and sparked my interest, was this box of circuits and electricity that could do so many great things.  A box full of code.  Later in life I was an intelligence analyst in the U.S. Army, and served in Operation Iraqi Freedom.  Here I was introduced to technology that I only thought existed in the movies, or in my fantasies.  Although these two examples are on very far sides of the spectrum, the thing that they both have in common, is the underlying code that makes it all possible.  I first entered the "technology" field through the network administration side, but quickly decided that it wasn't for me.  I then started to really look into what made things "tick".  How were all the amazing technological advances we were experiencing as a world possible?  A gigantic light bulb went off.  Again, the answer is the underlying code that makes a web page work, a video game as exciting as it is and the latest and greatest app the must have of the year.  I love to know what makes something possible.  I love to solve problems.  I love creation.  I realized I wanted to be a part of a technological renaissance.  One that may rival the industrial revolution.  I want to create.  More important, I want to create the future.  Why do I want to learn software development?  I have many reasons.  And that is why I know deep down inside, I was meant to be a part of something amazing.  Creating the future.  Helping to write, or code our history.   
+
+
+		
